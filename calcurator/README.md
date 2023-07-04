@@ -1,6 +1,6 @@
-# Calcurator
+# Calculator
 
-Calcurator in the browser.
+Calculator in the browser.
 
 ## Setting
 
@@ -8,7 +8,7 @@ Build and launch multiple containers based on the configuration described in the
 ```
 docker-compose build
 ```
-
+  
 Create a React application.
 ```
 docker-compose run node sh -c 'npx create-react-app calcurator --template typescript'
